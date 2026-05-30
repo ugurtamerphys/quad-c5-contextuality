@@ -4,8 +4,6 @@ Code and data accompanying the paper:
 
 > **The Quad-C5 Graph: Maximum Contextuality Gap on Eight Vertices**  
 > U. Tamer, Ö. E. Müstecaplıoğlu, A. Dizdar, Z. Gedik  
-> Submitted to New Journal of Physics (2026)
-
 ## Repository Contents
 
 | File | Description |
