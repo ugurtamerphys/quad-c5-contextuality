@@ -1,0 +1,8 @@
+quantity,value
+target_1_plus_sqrt5,3.23606797749979
+best_numerical_eta3,3.236067977500058
+interval_lo,3.2360561719209824
+interval_hi,3.236067977500058
+abs_diff,2.682298827494378e-13
+poly_check_x2m2xm4,1.2008172234345693e-12
+n_feasible_restarts,500
